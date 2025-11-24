@@ -1,4 +1,4 @@
-# TypeLab AI
+# TypeLab
 
 TypeLab is a professional font testing playground designed for typography enthusiasts and developers. It provides a real-time environment to test and visualize fonts with various properties and settings.
 
