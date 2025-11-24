@@ -34,8 +34,8 @@ TypeLab is a professional font testing playground designed for typography enthus
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd typelab-ai
+   git clone https://github.com/ahmedtijanicom/typelab.git
+   cd typelab
    ```
 
 2. Install dependencies:
